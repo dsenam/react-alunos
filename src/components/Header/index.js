@@ -11,11 +11,11 @@ function Header() {
           <FaHome size={24} />
         </Link>
 
-        <Link to="/">
+        <Link to="/login">
           <FaSignInAlt size={24} />
         </Link>
 
-        <Link to="/">
+        <Link to="/sadas">
           <FaUserAlt size={24} />
         </Link>
       </Nav>
